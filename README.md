@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # frontend_childlike
 
 A new Flutter project.
@@ -18,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Fairytale-Maker
 SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : SW 부문
->>>>>>> 61a34199a74d9150b90ca5202b5965b9b67d2d10
+
